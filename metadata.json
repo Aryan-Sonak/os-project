@@ -1,0 +1,5 @@
+{
+  "name": "Advanced MLFQ Simulator Pro",
+  "description": "A highly interactive and visually rich Multilevel Feedback Queue (MLFQ) CPU Scheduling Simulator with I/O support, aging, and AI-driven optimization.",
+  "requestFramePermissions": []
+}
